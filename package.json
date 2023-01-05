@@ -1,5 +1,5 @@
 {
-  "name": "react-native-google-pay",
+  "name": "react-native-google-pay-merchant-id-fixed",
   "version": "2.1.0",
   "description": "React Native bridge for Google Pay",
   "main": "index.js",
@@ -20,7 +20,7 @@
   "nativePackage": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/busfor/react-native-google-pay.git"
+    "url": "https://github.com/andrewgrinko/react-native-google-pay"
   },
   "peerDependencies": {
     "react-native": ">=0.60.0"
