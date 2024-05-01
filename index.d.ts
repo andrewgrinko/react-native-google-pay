@@ -30,7 +30,8 @@ export interface RequestDataType {
     totalPriceStatus: string
     currencyCode: string
   }
-  merchantName: string
+  merchantName: string,
+  merchantId: string
 }
 
 declare class GooglePay {
